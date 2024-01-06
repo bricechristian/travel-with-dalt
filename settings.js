@@ -502,7 +502,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/north-cascades-national-park",
+   "link": "https://www.travelwithdalt.com/north-cascades-national-park",
    "comment": ""
   },
   "p1": {
@@ -515,7 +515,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "left-middle",
-   "link": "www.travelwithdalt.com/post/denali-national-park",
+   "link": "https://www.travelwithdalt.com/denali-national-park",
    "comment": ""
   },
   "p2": {
@@ -528,7 +528,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/gates-of-the-arctic-national-park",
+   "link": "https://www.travelwithdalt.com/gates-of-the-arctic-national-park",
    "comment": ""
   },
   "p3": {
@@ -541,7 +541,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/glacier-bay-national-park",
+   "link": "https://www.travelwithdalt.com/glacier-bay-national-park",
    "comment": ""
   },
   "p4": {
@@ -554,7 +554,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/katmai-national-park",
+   "link": "https://www.travelwithdalt.com/katmai-national-park",
    "comment": ""
   },
   "p5": {
@@ -567,7 +567,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-top",
-   "link": "www.travelwithdalt.com/post/kenai-fjords-national-park",
+   "link": "https://www.travelwithdalt.com/kenai-fjords-national-park",
    "comment": ""
   },
   "p6": {
@@ -580,7 +580,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "left-top",
-   "link": "www.travelwithdalt.com/post/kobuk-valley-national-park",
+   "link": "https://www.travelwithdalt.com/kobuk-valley-national-park",
    "comment": ""
   },
   "p7": {
@@ -593,7 +593,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "left-middle",
-   "link": "www.travelwithdalt.com/post/lake-clark-national-park",
+   "link": "https://www.travelwithdalt.com/lake-clark-national-park",
    "comment": ""
   },
   "p8": {
@@ -606,7 +606,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/wrangell-st.-elias-national-park",
+   "link": "https://www.travelwithdalt.com/wrangell-st.-elias-national-park",
    "comment": ""
   },
   "p9": {
@@ -619,7 +619,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/national-park-of-american-samoa",
+   "link": "https://www.travelwithdalt.com/national-park-of-american-samoa",
    "comment": ""
   },
   "p10": {
@@ -632,7 +632,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/petrified-forest-national-park",
+   "link": "https://www.travelwithdalt.com/petrified-forest-national-park",
    "comment": ""
   },
   "p11": {
@@ -645,7 +645,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/saguaro-national-park",
+   "link": "https://www.travelwithdalt.com/saguaro-national-park",
    "comment": ""
   },
   "p12": {
@@ -658,7 +658,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/grand-canyon-national-park",
+   "link": "https://www.travelwithdalt.com/grand-canyon-national-park",
    "comment": ""
   },
   "p13": {
@@ -671,7 +671,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/hot-springs-national-park",
+   "link": "https://www.travelwithdalt.com/hot-springs-national-park",
    "comment": ""
   },
   "p14": {
@@ -684,7 +684,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/channel-islands-national-park",
+   "link": "https://www.travelwithdalt.com/channel-islands-national-park",
    "comment": ""
   },
   "p15": {
@@ -697,7 +697,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/joshua-tree-national-park",
+   "link": "https://www.travelwithdalt.com/joshua-tree-national-park",
    "comment": ""
   },
   "p16": {
@@ -710,7 +710,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-middle",
-   "link": "www.travelwithdalt.com/post/kings-canyon-national-park",
+   "link": "https://www.travelwithdalt.com/kings-canyon-national-park",
    "comment": ""
   },
   "p17": {
@@ -723,7 +723,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/lassen-volcanic-national-park",
+   "link": "https://www.travelwithdalt.com/lassen-volcanic-national-park",
    "comment": ""
   },
   "p18": {
@@ -736,7 +736,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/pinnacles-national-park",
+   "link": "https://www.travelwithdalt.com/pinnacles-national-park",
    "comment": ""
   },
   "p19": {
@@ -749,7 +749,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/redwood-national-park",
+   "link": "https://www.travelwithdalt.com/redwood-national-park",
    "comment": ""
   },
   "p20": {
@@ -762,7 +762,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "left-middle",
-   "link": "www.travelwithdalt.com/post/sequoia-national-park",
+   "link": "https://www.travelwithdalt.com/sequoia-national-park",
    "comment": ""
   },
   "p21": {
@@ -775,7 +775,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-top",
-   "link": "www.travelwithdalt.com/post/yosemite-national-park",
+   "link": "https://www.travelwithdalt.com/yosemite-national-park",
    "comment": ""
   },
   "p22": {
@@ -788,7 +788,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "left-middle",
-   "link": "www.travelwithdalt.com/post/death-valley-national-park",
+   "link": "https://www.travelwithdalt.com/death-valley-national-park",
    "comment": ""
   },
   "p23": {
@@ -801,7 +801,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/black-canyon-of-the-gunnison-national-park",
+   "link": "https://www.travelwithdalt.com/black-canyon-of-the-gunnison-national-park",
    "comment": ""
   },
   "p24": {
@@ -814,7 +814,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/great-sand-dunes-national-park",
+   "link": "https://www.travelwithdalt.com/great-sand-dunes-national-park",
    "comment": ""
   },
   "p25": {
@@ -827,7 +827,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-bottom",
-   "link": "www.travelwithdalt.com/post/mesa-verde-national-park",
+   "link": "https://www.travelwithdalt.com/mesa-verde-national-park",
    "comment": ""
   },
   "p26": {
@@ -840,7 +840,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/rocky-mountain-national-park",
+   "link": "https://www.travelwithdalt.com/rocky-mountain-national-park",
    "comment": ""
   },
   "p27": {
@@ -853,7 +853,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/biscayne-national-park",
+   "link": "https://www.travelwithdalt.com/biscayne-national-park",
    "comment": ""
   },
   "p28": {
@@ -866,7 +866,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "left-bottom",
-   "link": "www.travelwithdalt.com/post/dry-tortugas-national-park",
+   "link": "https://www.travelwithdalt.com/dry-tortugas-national-park",
    "comment": ""
   },
   "p29": {
@@ -879,7 +879,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "left-middle",
-   "link": "www.travelwithdalt.com/post/everglades-national-park",
+   "link": "https://www.travelwithdalt.com/everglades-national-park",
    "comment": ""
   },
   "p30": {
@@ -892,7 +892,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/haleakala-national-park",
+   "link": "https://www.travelwithdalt.com/haleakala-national-park",
    "comment": ""
   },
   "p31": {
@@ -905,7 +905,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/hawai’i-volcanoes-national-park",
+   "link": "https://www.travelwithdalt.com/hawai’i-volcanoes-national-park",
    "comment": ""
   },
   "p32": {
@@ -918,7 +918,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-top",
-   "link": "www.travelwithdalt.com/post/yellowstone-national-park",
+   "link": "https://www.travelwithdalt.com/yellowstone-national-park",
    "comment": ""
   },
   "p33": {
@@ -931,7 +931,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/indiana-dunes-national-park",
+   "link": "https://www.travelwithdalt.com/indiana-dunes-national-park",
    "comment": ""
   },
   "p34": {
@@ -944,7 +944,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "left-middle",
-   "link": "www.travelwithdalt.com/post/mammoth-cave-national-park",
+   "link": "https://www.travelwithdalt.com/mammoth-cave-national-park",
    "comment": ""
   },
   "p35": {
@@ -957,7 +957,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "left-middle",
-   "link": "www.travelwithdalt.com/post/acadia-national-park",
+   "link": "https://www.travelwithdalt.com/acadia-national-park",
    "comment": ""
   },
   "p36": {
@@ -970,7 +970,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-middle",
-   "link": "www.travelwithdalt.com/post/isle-royale-national-park",
+   "link": "https://www.travelwithdalt.com/isle-royale-national-park",
    "comment": ""
   },
   "p37": {
@@ -983,7 +983,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-top",
-   "link": "www.travelwithdalt.com/post/voyageurs-national-park",
+   "link": "https://www.travelwithdalt.com/voyageurs-national-park",
    "comment": ""
   },
   "p38": {
@@ -996,7 +996,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-top",
-   "link": "www.travelwithdalt.com/post/gateway-arch-national-park",
+   "link": "https://www.travelwithdalt.com/gateway-arch-national-park",
    "comment": ""
   },
   "p39": {
@@ -1009,7 +1009,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/glacier-national-park",
+   "link": "https://www.travelwithdalt.com/glacier-national-park",
    "comment": ""
   },
   "p40": {
@@ -1022,7 +1022,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-top",
-   "link": "www.travelwithdalt.com/post/great-basin-national-park",
+   "link": "https://www.travelwithdalt.com/great-basin-national-park",
    "comment": ""
   },
   "p41": {
@@ -1035,7 +1035,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-middle",
-   "link": "www.travelwithdalt.com/post/carlsbad-caverns-national-park",
+   "link": "https://www.travelwithdalt.com/carlsbad-caverns-national-park",
    "comment": ""
   },
   "p42": {
@@ -1048,7 +1048,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-middle",
-   "link": "www.travelwithdalt.com/post/white-sands-national-park",
+   "link": "https://www.travelwithdalt.com/white-sands-national-park",
    "comment": ""
   },
   "p43": {
@@ -1061,7 +1061,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/great-smoky-mountains-national-park",
+   "link": "https://www.travelwithdalt.com/great-smoky-mountains-national-park",
    "comment": ""
   },
   "p44": {
@@ -1074,7 +1074,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-top",
-   "link": "www.travelwithdalt.com/post/theodore-roosevelt-national-park",
+   "link": "https://www.travelwithdalt.com/theodore-roosevelt-national-park",
    "comment": ""
   },
   "p45": {
@@ -1087,7 +1087,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-top",
-   "link": "www.travelwithdalt.com/post/cuyahoga-valley-national-park",
+   "link": "https://www.travelwithdalt.com/cuyahoga-valley-national-park",
    "comment": ""
   },
   "p46": {
@@ -1100,7 +1100,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-top",
-   "link": "www.travelwithdalt.com/post/crater-lake-national-park",
+   "link": "https://www.travelwithdalt.com/crater-lake-national-park",
    "comment": ""
   },
   "p47": {
@@ -1113,7 +1113,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-bottom",
-   "link": "www.travelwithdalt.com/post/congaree-national-park",
+   "link": "https://www.travelwithdalt.com/congaree-national-park",
    "comment": ""
   },
   "p48": {
@@ -1126,7 +1126,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/badlands-national-park",
+   "link": "https://www.travelwithdalt.com/badlands-national-park",
    "comment": ""
   },
   "p49": {
@@ -1139,7 +1139,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/wind-cave-national-park",
+   "link": "https://www.travelwithdalt.com/wind-cave-national-park",
    "comment": ""
   },
   "p50": {
@@ -1152,7 +1152,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/big-bend-national-park",
+   "link": "https://www.travelwithdalt.com/big-bend-national-park",
    "comment": ""
   },
   "p51": {
@@ -1165,7 +1165,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/guadalupe-mountains-national-park",
+   "link": "https://www.travelwithdalt.com/guadalupe-mountains-national-park",
    "comment": ""
   },
   "p52": {
@@ -1178,7 +1178,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-top",
-   "link": "www.travelwithdalt.com/post/arches-national-park",
+   "link": "https://www.travelwithdalt.com/arches-national-park",
    "comment": ""
   },
   "p53": {
@@ -1191,7 +1191,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-top",
-   "link": "www.travelwithdalt.com/post/bryce-canyon-national-park",
+   "link": "https://www.travelwithdalt.com/bryce-canyon-national-park",
    "comment": ""
   },
   "p54": {
@@ -1204,7 +1204,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/canyonlands-national-park",
+   "link": "https://www.travelwithdalt.com/canyonlands-national-park",
    "comment": ""
   },
   "p55": {
@@ -1217,7 +1217,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/capitol-reef-national-park",
+   "link": "https://www.travelwithdalt.com/capitol-reef-national-park",
    "comment": ""
   },
   "p56": {
@@ -1230,7 +1230,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "left-bottom",
-   "link": "www.travelwithdalt.com/post/zion-national-park",
+   "link": "https://www.travelwithdalt.com/zion-national-park",
    "comment": ""
   },
   "p57": {
@@ -1243,7 +1243,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "left-middle",
-   "link": "www.travelwithdalt.com/post/virgin-islands-national-park",
+   "link": "https://www.travelwithdalt.com/virgin-islands-national-park",
    "comment": ""
   },
   "p58": {
@@ -1256,7 +1256,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-top",
-   "link": "www.travelwithdalt.com/post/shenandoah-national-park",
+   "link": "https://www.travelwithdalt.com/shenandoah-national-park",
    "comment": ""
   },
   "p59": {
@@ -1269,7 +1269,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "right-middle",
-   "link": "www.travelwithdalt.com/post/mount-rainier-national-park",
+   "link": "https://www.travelwithdalt.com/mount-rainier-national-park",
    "comment": ""
   },
   "p60": {
@@ -1282,7 +1282,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-top",
-   "link": "www.travelwithdalt.com/post/olympic-national-park",
+   "link": "https://www.travelwithdalt.com/olympic-national-park",
    "comment": ""
   },
   "p61": {
@@ -1295,7 +1295,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-bottom",
-   "link": "www.travelwithdalt.com/post/new-river-gorge-national-park",
+   "link": "https://www.travelwithdalt.com/new-river-gorge-national-park",
    "comment": ""
   },
   "p62": {
@@ -1308,7 +1308,7 @@ var map_cfg = {
    "pointType": "marker",
    "radius": 5,
    "textPos": "middle-middle",
-   "link": "www.travelwithdalt.com/post/grand-teton-national-park",
+   "link": "https://www.travelwithdalt.com/grand-teton-national-park",
    "comment": ""
   }
  }
