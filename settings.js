@@ -18,7 +18,7 @@ var map_cfg = {
  "borderOpacity": 0.5,
  "nameColor": "#ffffff",
  "nameColorOver": "#ffffff",
- "nameFontSize": "10px",
+ "nameFontSize": "9px",
  "nameFontWeight": "bold",
  "nameStroke": false,
  "nameStrokeColor": "#000000",
