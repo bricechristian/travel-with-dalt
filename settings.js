@@ -27,6 +27,7 @@ var map_cfg = {
  "nameStrokeOpacity": 0.5,
  "overDelay": 300,
  "nameAutoSize": false,
+ "pointNameFontSize": "7px",
  "tooltipOnHighlightIn": false,
  "freezeTooltipOnClick": false,
  "mapId": "vcg",
